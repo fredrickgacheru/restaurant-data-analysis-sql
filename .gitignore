@@ -1,0 +1,27 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS folder metadata
+__MACOSX/
+
+# Thumbnails
+._*
+
+# SQL backup or temp files
+*.sql~ 
+*.tmp
+
+# VS Code settings (optional, if you use VS Code)
+.vscode/
+
+# Logs
+*.log
+
+# Environment files (if you ever add secrets or configs)
+.env
+
+# macOS system files
+.DS_Store
+__MACOSX/
